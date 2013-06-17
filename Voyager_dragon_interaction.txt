@@ -1,0 +1,19 @@
+Plantronics Voyager UC v2 is a business class earpiece which allows Bluetooth connection to 2 devices at once. 
+This is useful because Bluetooth is a single point to point communication protocol and client devices do not usually connect to more than one host. This capability enables me to use Dragon voice recognition on the computer and answer phone calls seamlessly using a single earpiece. Having this facility without any manual interaction is a great productivity enabler. When a call comes in, audio connections to the PC will be suspended and the earpiece will receive and transmit audio to the phone. Another useful autonomous feature of the Voyager is its "smart sensors" which enable standby when the earpiece is not on the ear. This last feature helps with battery drainage when the earpiece is not turned off when not in use. The earpiece can also be used whilst charging via USB (and also takes standard mini USB, not a proprietary USB socket shape).
+
+Voyager troubleshooting steps
+
+connect Bluetooth adapter to PC
+enable the listen setting on PC Bluetooth setting (playback using Bluetooth device)
+once working with Dragon, disconnect Bluetooth adapter from pc
+
+initially connect earpiece to phone
+Connect Bluetooth adapter to PC
+
+
+update: the checkbox "maintain earpiece to PC link" in the "spoke" Plantronics software control panel.
+This enables constant connection without needing the "listen to me" Windows recording device audio setting 
+
+
+update; when bluetooth adaptor solid blue, may need to restart pc/ear piece.
+disconnect phone first. don't forget to press the call select button to open connection to the PC. (Button on the outside of earbud)

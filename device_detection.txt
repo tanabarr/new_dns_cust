@@ -1,0 +1,18 @@
+_AUTOHOTEY_ 
+use autohotkey script to loop through registry (Loop (registry))
+Loop, HKEY_CURRENT_USER, Software\Microsoft\Windows, 1, 1
+{
+    if a_LoopRegType = key
+        value =
+    else
+    {
+        RegRead, value
+        if ErrorLevel
+            value = *error*
+    }
+    MsgBox, 4, , %a_LoopRegName% = %value% (%a_LoopRegType%)`n`nContinue?
+    IfMsgBox, NO, break
+} 
+
+
+Then can use fileOpen to restart voice recognition of and detection of USB audio device.

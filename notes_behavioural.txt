@@ -1,0 +1,13 @@
+natlink commands will work in vnc window whereas custom commands using "add_new_command" in Dragon will not. Consider transferring custom commands to natlink script
+
+Natlink command seem to execute quicker with "repeat_that" which in itself is a natlink command.
+
+291112
+notice that when microphone will not turn on on start-up of Dragon with microphone in sleep state, works if there is complete silence/less background noise
+
+mouseandkeyboardutilities Natlink file updated to provide ability to select QuickStart icon based on row and column coordinates. Also can select window title in task bar based on its index from beginning or end. Grammars: QuickStart… , Focus Window…
+Repeat key… Also added for common keys (faster than "repeat that")
+
+should create grammar strings dynamically using range and dictionaries. Anyway to transfer from MyCmds into Natlink.?
+
+***Use "say" to insert dictation when inside the spell mode, very useful also when trying to avoid a command with the same grammar as what you are trying to dictate.***

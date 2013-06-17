@@ -1,0 +1,8 @@
+*
+!.gitignore
+!*README*
+!*.txt
+*serial*
+!*.reg
+!*.bat
+
