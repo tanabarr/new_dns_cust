@@ -1,0 +1,12 @@
+shure beta 58a w/ Andrea USB hub
+samson airline 77 wireless microphone, andrea pureaudio usb-sa soundpod
+sennhitser M3/Md 431 II
+
+2 options:
+ANC-1500 headset, good solution, limited noise cancelling ability 
+http://www.amazon.co.uk/ANDREA-WNC-1500-Wireless-Stereo-Headset/dp/B00AMKK7H4#productDetails
+
+Samson airline 77, professional grade receiver and microphone headset 
+http://www.amazon.co.uk/Samson-Airline-Vocal-Headset-System/dp/B00BQV4R5G/ref=sr_1_2?ie=UTF8&qid=1382355952&sr=8-2&keywords=samson+airline+77
+requires also: USB soundcard( bundled with a microphone , bundle was cheaper than on its own)
+http://www.amazon.co.uk/Andrea-Electronics-Soundcard-SuperBeam-Microphone/dp/B005TX3DBG/ref=sr_1_4?s=electronics&ie=UTF8&qid=1382357403&sr=1-4&keywords=Andrea+usb
