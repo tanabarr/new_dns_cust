@@ -1,6 +1,0 @@
-List Windows
-search (documents) for X
-mouse move| drag lower right very fast
-press shift|control right click
-control mouse drag lower right
-mouse down 9 Mark, mouse right 8 shift-drag
