@@ -1,0 +1,14 @@
+Installing executable just set up the python libraries?
+Install scripts in macrosystem directory of natlink
+pkg_resources required for configurations script (dragonfly_tools) to work
+dragonfly results in more convenient access to compound grammars in natlink (offers a layer of abstraction)
+installing setuptools-0.6c11-py2.6.egg (md5) seems to fix problems with pkg_resources (using the Windows installer), now commands like "show dragonfly version" work. (Or was it updating dragonfly?)
+Dragonfly is installed as an egg package.
+Download files from website and save in macro system as .py
+how do config files work? A: overwrite some of the data specified within the python file, provides isolated customisation.
+Where are they stored ? A: same directory with same beginning of name.l
+
+Ctypes method within monitor.PY replaced with win32api method
+window object exposed in winctrl.py seems to not beDragonfly type but more win32 type, passed in "extras" parameter, investigate…
+
+Ensure you have the deprecated msvcr71.dll file in the Windows syswow64 directory.win7/64
