@@ -1,9 +1,0 @@
-*
-!.gitignore
-!*README*
-!*.txt
-*serial*
-!*.lnk
-!*.reg
-!*.bat
-!*.exe

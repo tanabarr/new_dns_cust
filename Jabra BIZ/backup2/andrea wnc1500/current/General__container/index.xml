@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Repository version="1.0">
+
+	<Slot id="1" storage="usr.slt" revision="3" dirty="false">
+		<Document id="Doc_25DFCC" revision="0" time="41581.4612847222" session="" origin_file="C:\Users\tan\Documents\dragonfly.txt" size="67315"/>
+		<Document id="Doc_25DFCD" revision="1" time="41581.4612847222" session="" origin_file="C:\Users\tan\Documents\Oracle client connection.txt" size="3855"/>
+		<Document id="Doc_25DFC9" revision="2" time="41581.4612847222" session="" origin_file="C:\Users\tan\Documents\Oracle_usage_virtual disk.txt" size="1276"/>
+	</Slot>
+
+	<Slot id="4" storage="lmo.slt" revision="0" dirty="false">
+	</Slot>
+
+</Repository>
